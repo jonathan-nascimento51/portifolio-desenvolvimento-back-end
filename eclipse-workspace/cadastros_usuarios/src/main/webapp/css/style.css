@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.input-text {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.nome-digitado {
+    font-weight: bold;
+    color: blue;
+    margin-top: 10px;
+}
